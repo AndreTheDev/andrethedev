@@ -1,4 +1,4 @@
-# Hi, i am Andre 😁🌱🐘🐧
+# Hi, i am Andre 😁🌱🐘🐧🐍
 
 I've been working as PHP software developer since some years, and i've been learning a lot from it. My purpose here is to contribute to the developers community, deploying simple code examples, simple projects and perhaps contribute to some projects too. 
 
